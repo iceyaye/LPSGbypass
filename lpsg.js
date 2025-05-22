@@ -53,7 +53,7 @@
                 video.style.maxWidth = '100%';
                 video.dataset.replaced = 'true';
 
-                // **New**: If the video fails to load (e.g. 404), remove it
+                // If the video fails to load (e.g. 404), remove it
                 video.addEventListener('error', () => {
                     video.remove();
                 });
