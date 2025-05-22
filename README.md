@@ -1,7 +1,7 @@
-**You need to log-in, or the script will not works.**
+**You need to log-in first, or the script will not work.**
 
 ## Usage
 
-Download Tampermonkey. New Script > Copy and Paste > File > Save.
+Download Tamper/Violent monkey. New Script > Copy and Paste > File > Save.
 
-Then automatically all videos will show on a thread, without the need of subscribe!
+Then automatically all videos will show on a thread and gallery, without the need of subscribe!
